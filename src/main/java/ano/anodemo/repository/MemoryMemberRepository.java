@@ -1,6 +1,7 @@
 package ano.anodemo.repository;
 
 import ano.anodemo.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
